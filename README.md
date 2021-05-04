@@ -1,2 +1,3 @@
 # Psychology
-emotional, psychological, and social well-being.
+Mental Health
+emotional, psychological, and social well-being
